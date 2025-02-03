@@ -8,3 +8,4 @@ Telegram-bot на python-telegram-bot, который по запросу пол
   - python-telegram-bot
   - SQLAlchemy
   - SQLite
+  - asyncio
